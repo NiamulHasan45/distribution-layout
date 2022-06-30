@@ -3,9 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-             <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+            <h1>Many secret things are waiting for you. Please login to see whats going on</h1>
         </div>
     );
 };
